@@ -1,1 +1,0 @@
-# Discord.js-V14-hexcolors
